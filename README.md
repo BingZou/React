@@ -1,5 +1,5 @@
 # React
-React JS based NBA Player Strength Visualization
+React JS based NBA Player Strength Visualization  
 Demo:
 http://34.211.21.63/nba/
 
